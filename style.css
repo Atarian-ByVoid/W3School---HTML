@@ -1,0 +1,36 @@
+body{
+    background-color:black;
+}
+
+h1{
+    color:white;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 20px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+p{
+    color:red;
+    text-align: center;
+}
+
+img{
+    border-radius: 8%;
+    margin: auto;
+  display: block;
+   
+    
+}
+a{
+    color:white;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  
+}
+
+iframe{
+    justify-content: center;
+    align-items: center;;
+}
