@@ -1,5 +1,6 @@
 body{
     background-color:black;
+    
 }
 
 h1{
@@ -33,4 +34,34 @@ a{
 iframe{
     justify-content: center;
     align-items: center;;
+}
+
+h2{
+    color:aliceblue;
+    text-align: center;
+    width: 500px;
+    border-bottom: 1.2vh outset rgb(255, 255, 255);
+    border-style: outset;
+    border-radius: 40px;
+    border-width: 1.2vh;
+    margin: auto;
+ 
+}
+
+h3{
+    color:aliceblue;
+    text-align: center;
+    width: 500px;
+    margin: auto; 
+}
+
+#imagem{
+    float: left;
+
+
+}
+
+figcaption{
+    text-align: left;
+    color:aliceblue;
 }
